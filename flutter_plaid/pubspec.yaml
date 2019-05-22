@@ -1,6 +1,6 @@
 name: flutter_plaid
 description: Porting of Plaid Api (https://plaid.com/docs/) to Flutter.
-version: 0.1.0
+version: 0.1.1
 author: Leonid Veremchuk<leonid.veremchuk@gmail.com>
 homepage: https://github.com/LeonidVeremchuk
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: 0.12.0+2
+  http: ^0.12.0+2
   webview_flutter: ^0.3.7+1
 
 dev_dependencies:

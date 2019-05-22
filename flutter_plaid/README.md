@@ -1,6 +1,8 @@
 Flutter for Plaid Link
 
-## Getting Started
+[![pub](https://img.shields.io/pub/v/flutter_plaid.svg)](https://pub.dev/packages/flutter_plaid)
+
+## Usage
 
 ```dart
 class _Example extends State {
